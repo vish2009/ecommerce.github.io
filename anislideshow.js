@@ -28,7 +28,7 @@
     function swapImage () {
         'use strict'
         const newImage = document.createElement("img");
-        newImage.src = `slides/${images[currentImage]}`;
+        newImage.src = 'images[currentImage]';
         newImage.className = 'fadeinanimation';
         container.appendChild(newImage);
         if(container.children.length>2){
