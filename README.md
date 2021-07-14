@@ -10,4 +10,4 @@ Technology used :-
 HTML5 , CSS ,BOOTSTRAP. 
 
 To go to website click here : 
-https://vish2009.github.io/vish.github.io/lifestyle/
+https://vish2009.github.io/ecommerce.github.io/lifestyle/
